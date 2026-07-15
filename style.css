@@ -1,0 +1,55 @@
+.attribution { 
+    font-size: 0.6875rem; 
+    text-align: center; 
+    color: aliceblue;
+}
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+}
+body{
+    margin: 0;
+    background-color: black;
+}
+.link{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    
+
+}
+.first{
+    color: aliceblue;
+    background-color: dimgray;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 300px;
+    height: 95vh;
+    /* padding-left: 20px;
+    padding-right: 20px; */
+}
+.second{
+    padding-top: 30px;
+}
+.second img{
+    border-radius: 50%;
+    height: 100px;
+}
+.fourth{
+    color: gold;
+}
+h5{
+    background-color: darkgrey;
+    min-width: 20px;
+    min-height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
